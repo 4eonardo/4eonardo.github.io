@@ -26,3 +26,28 @@ im a native poliglot, that means i became a poliglot as a child and it fucked up
 
 here's a bitcoin address, send fuck you money if you even have it
 12jBTjCzSxxSJ7Lt3XtmtUtCCTV1CBvFZD
+
+Inprocessus
+
+![Aguatomo1](https://github.com/user-attachments/assets/9f6ee309-9602-4d07-942c-3d79858f08b3)
+
+
+![Romasoyyo](https://github.com/user-attachments/assets/b96d4b19-b44b-42a4-a019-c6cdd32418f9)
+
+
+![CodigoComercio](https://github.com/user-attachments/assets/f2c90bc4-ef3e-4571-bba2-3334a4450fdb)
+
+
+![Renacer](https://github.com/user-attachments/assets/2b99ac41-10f6-4d80-84a7-655c151355e4)
+
+
+![Politica](https://github.com/user-attachments/assets/1c3599e9-a39d-4fb1-b500-c97724e3114a)
+
+
+![Respiratoria](https://github.com/user-attachments/assets/7e8358bf-f8ce-45b3-ae26-0447e94e0195)
+
+
+![Cabotagem](https://github.com/user-attachments/assets/22122ad8-490b-4496-a3b4-e2d4d0f046cd)
+
+
+![Desafio](https://github.com/user-attachments/assets/0b807371-65d9-448f-a5c5-422f6affa303)
