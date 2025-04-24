@@ -2,7 +2,7 @@ abc
 
 let's get the darkness out of the way first. 
 
-My life is in danger. If I don't update this readme within two weeks, so june 21 (♻️mar 25, expires apr 4), contact my nameless lawyer.
+My life is in danger. If I don't update this readme within two weeks, so june 21 (♻️apr 24, expires may1), contact my nameless lawyer.
 
 2024, 
 
