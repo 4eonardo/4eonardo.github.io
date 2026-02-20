@@ -12,5 +12,4 @@ console.log(source.value);
   source.reset();
   contra = "the gods omniscient";
   return contra;
-  alert(contra);
 }
