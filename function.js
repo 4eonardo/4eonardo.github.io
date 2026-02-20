@@ -11,5 +11,8 @@ function repost(){
 console.log(source.value);
   source.value = "";
   contra = "gaudium omniscient";
+  if((Math.random()) < .06){
+    source.value = contra;
+  }
   return source;
 }
