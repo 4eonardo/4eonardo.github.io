@@ -9,7 +9,7 @@ const source= document.getElementById("input");
 source.addEventListener("keypress", (e) => {if (e.key === "Enter"){repost(); turncounter++;}});
 function repost(){
 console.log(source.value);
-  source.reset();
+  source.value = "";
   contra = "the gods omniscient";
-  return contra;
+  return source;
 }
