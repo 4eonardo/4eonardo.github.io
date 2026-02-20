@@ -10,6 +10,6 @@ source.addEventListener("keypress", (e) => {if (e.key === "Enter"){repost(); tur
 function repost(){
 console.log(source.value);
   source.value = "";
-  contra = "the gods omniscient";
+  contra = "gaudium omniscient";
   return source;
 }
