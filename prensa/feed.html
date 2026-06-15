@@ -119,14 +119,13 @@
         const MEDIUM_RSS_URL = '/prensa/feed.xml'; // Replace with your Medium username
         const CORS_PROXY = ''; // Free CORS proxy
         const MAX_ARTICLES = 10;
-      const response = await fetch(MEDIUM_RSS_URL);
 
         async function fetchMediumArticles() {
             const container = document.getElementById('articles');
             
             try {
                 // Fetch the RSS feed through a CORS proxy
-                const response = await fetch(CORS_PROXY + encodeURIComponent(MEDIUM_RSS_URL));
+                const response = await fetch(MEDIUM_RSS_URL);
                 
                 if (!response.ok) {
                     throw new Error('Failed to fetch RSS feed');
